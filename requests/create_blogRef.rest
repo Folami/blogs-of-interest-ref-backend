@@ -1,0 +1,8 @@
+POST http://localhost:3001/api/blogs
+Content-Type: application/json
+
+{
+  "title": "The Nature of Product",
+  "author": "Marty Cagan",
+  "url": "https://svpg.com/the-nature-of-product/"
+}
